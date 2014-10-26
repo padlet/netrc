@@ -1,5 +1,3 @@
-require 'rbconfig'
-
 class Netrc
   VERSION = "0.8.0"
 
